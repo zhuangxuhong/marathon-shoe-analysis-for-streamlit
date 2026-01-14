@@ -7,7 +7,7 @@ import json
 st.set_page_config(page_title="中国马拉松跑鞋品牌分析 2021-2025", layout="wide")
 st.title("🇨🇳 中国马拉松跑鞋品牌市场份额分析（2021-2025）")
 st.markdown("""
-数据来源：悦跑圈等平台统计（厦门、上海、北京、无锡、广州马拉松）  
+**数据来源：悦跑圈等平台统计**（涵盖厦门、上海、北京、无锡、广州马拉松）  
 队列说明：**破3选手**（净成绩<3小时精英跑者） vs **全局跑者**（全体完赛者）  
 """)
 
@@ -46,13 +46,16 @@ with tab1:
     st.subheader(f"{cohort} · Top 20 品牌排行（最新年份 {years[1]}）")
     latest_year = data[data['year'] == years[1]]
     if aggregate_events:
-        latest_year = latest_year.groupby(['brand', 'brand_en', 'type_zh'])['share'].mean().reset_index()
+        latest_year = latest_year.groupby(['brand', 'type_zh'])['share'].mean().reset_index()
     else:
-        latest_year = latest_year.groupby(['event', 'brand', 'brand_en', 'type_zh'])['share'].mean().reset_index()
+        latest_year = latest_year.groupby(['event', 'brand', 'type_zh'])['share'].mean().reset_index()
     
-    latest_year = latest_year.sort_values('share', ascending=False).head(20)
+    latest_year = latest_year.sort_values('share', ascending=False).head(20).copy()
+    latest_year['排名'] = range(1, len(latest_year) + 1)
     latest_year['份额%'] = (latest_year['share'] * 100).round(1)
-    st.dataframe(latest_year[['brand', 'brand_en', 'type_zh', '份额%']], use_container_width=True)
+    display_df = latest_year[['排名', 'brand', 'type_zh', '份额%']]
+    display_df.columns = ['排名', '品牌', '类型', '份额%']
+    st.dataframe(display_df, use_container_width=True)
 
 with tab2:
     st.subheader("品牌份额趋势对比")
@@ -71,11 +74,12 @@ with tab2:
     
     if selected_brands:
         plot_data = trend[trend['brand'].isin(selected_brands)]
-        fig = px.line(plot_data, x='year', y='share', color='brand_en',
+        fig = px.line(plot_data, x='year', y='share', color='brand',
                       labels={'share': '市场份额', 'year': '年份'},
                       title="选中品牌份额变化趋势",
                       hover_data={'share': ':.1%'})
         fig.update_yaxes(tickformat='.1%')
+        fig.update_xaxes(tickmode='array', tickvals=sorted(plot_data['year'].unique()))
         st.plotly_chart(fig, use_container_width=True)
         
         st.markdown("### 📊 自动分析总结")
@@ -97,23 +101,55 @@ with tab2:
 
 with tab3:
     st.subheader("乔丹跑鞋江湖地位分析")
+    
     if aggregate_events:
-        trend = data.groupby(['year', 'brand', 'brand_en', 'type_zh'])['share'].mean().reset_index()
-    qiaodan = trend[trend['brand'] == '乔丹']
-    if not qiaodan.empty:
-        fig = px.line(qiaodan, x='year', y='share', color='brand_en',
-                      title="乔丹份额变化趋势",
-                      labels={'share': '市场份额'})
-        fig.update_yaxes(tickformat='.1%')
-        st.plotly_chart(fig, use_container_width=True)
-        
-        start_share = qiaodan.iloc[0]['share']
-        end_share = qiaodan.iloc[-1]['share']
-        st.markdown(f"""
-        **总结**：  
-        乔丹从2021年的约 {start_share:.1%} 份额下降到2025年的 {end_share:.1%}。  
-        在**全局跑者**中仍保持前5-7位的大众化地位，但在**破3选手**队列中排名持续下滑（常跌出前10），表明其在精英跑者心中的“性价比王者”光环正在减弱，被特步、必迈等更专业的国内品牌蚕食。
-        """)
+        trend = data.groupby(['year', 'brand', 'type_zh'])['share'].mean().reset_index()
+    else:
+        trend = data.groupby(['year', 'event', 'brand', 'type_zh'])['share'].mean().reset_index()
+    
+    # 计算乔丹每年排名
+    rank_data = trend.groupby('year').apply(
+        lambda x: x.assign(rank=x['share'].rank(ascending=False, method='min'))
+    ).reset_index(drop=True)
+    qiaodan_trend = trend[trend['brand'] == '乔丹'].copy()
+    qiaodan_rank = rank_data[rank_data['brand'] == '乔丹'][['year', 'rank']].copy()
+    qiaodan_rank['rank'] = qiaodan_rank['rank'].astype(int)
+    
+    view_mode = st.radio("查看模式", options=['份额趋势', '排名趋势'], index=0, horizontal=True)
+    
+    if view_mode == '份额趋势':
+        if not qiaodan_trend.empty:
+            fig = px.line(qiaodan_trend, x='year', y='share', color='brand',
+                          title="乔丹份额变化趋势",
+                          labels={'share': '市场份额'})
+            fig.update_yaxes(tickformat='.1%')
+            fig.update_xaxes(tickmode='array', tickvals=sorted(qiaodan_trend['year'].unique()))
+            st.plotly_chart(fig, use_container_width=True)
+            
+            start_share = qiaodan_trend.iloc[0]['share']
+            end_share = qiaodan_trend.iloc[-1]['share']
+            st.markdown(f"""
+            **总结**：  
+            乔丹份额从 {start_share:.1%} 下降到 {end_share:.1%}。  
+            在全局跑者中仍保持大众化地位，但在破3选手队列中渗透率持续下滑。
+            """)
+    
+    else:  # 排名趋势
+        if not qiaodan_rank.empty:
+            fig = px.line(qiaodan_rank, x='year', y='rank',
+                          title="乔丹排名变化趋势（数字越小越好）",
+                          labels={'rank': '排名'})
+            fig.update_layout(yaxis_autorange="reversed")  # 排名倒置，1在最上面
+            fig.update_xaxes(tickmode='array', tickvals=sorted(qiaodan_rank['year'].unique()))
+            st.plotly_chart(fig, use_container_width=True)
+            
+            start_rank = qiaodan_rank.iloc[0]['rank']
+            end_rank = qiaodan_rank.iloc[-1]['rank']
+            st.markdown(f"""
+            **总结**：  
+            乔丹排名从第 {start_rank} 位下降到第 {end_rank} 位（数字越大代表排名越靠后）。  
+            尤其在破3精英选手群体中，排名下滑明显，表明其在高端竞技领域的地位正在被其他国产品牌逐步蚕食。
+            """)
 
 with tab4:
     st.subheader("国内品牌 vs 国际品牌势力对比")
@@ -127,6 +163,7 @@ with tab4:
                   title="国内 vs 国际品牌总份额变化（100%堆叠）",
                   labels={'share': '总份额'})
     fig.update_yaxes(tickformat='.1%')
+    fig.update_xaxes(tickmode='array', tickvals=sorted(di_year['year'].unique()))
     st.plotly_chart(fig, use_container_width=True)
     
     latest_di = di_year[di_year['year'] == years[1]]
@@ -135,5 +172,3 @@ with tab4:
     **2025年最新格局**：国内品牌总份额约 {domestic_latest:.1%}，国际品牌约 {(1-domestic_latest):.1%}。  
     过去5年，国内品牌实现了显著崛起，尤其在破3精英选手群体中占据绝对主导地位。
     """)
-
-st.caption("数据更新至2025年1月 · 如需更新数据，只需替换同名JSON文件并重新部署")
