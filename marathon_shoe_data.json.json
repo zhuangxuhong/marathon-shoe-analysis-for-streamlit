@@ -1,0 +1,7780 @@
+{
+  "records": [
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.5103
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.2609
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.0481
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.0366
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.0275
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.0206
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.0183
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.016
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "其他",
+      "brand_type": "other",
+      "rank": 9,
+      "share": 0.0111
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.0092
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.0092
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.0092
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.0069
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.0046
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.0023
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Reebok",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.0023
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.0023
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.0023
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "贵人鸟",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.0023
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.5379999999999999
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.1
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.09699999999999999
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.085
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.062
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.027999999999999997
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.021
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.01
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "咕咚",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.278
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.257
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.185
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.08199999999999999
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.063
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.05
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.028999999999999998
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.43799999999999994
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.188
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.172
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.064
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.051
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.017
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.01
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.008
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.005
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.498
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.113
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.086
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.07400000000000001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.044000000000000004
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.04
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.033
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.027999999999999997
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.022000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.001
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.3164
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.2415
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.0947
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.054000000000000006
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.042
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "无法辨认",
+      "brand_type": "other",
+      "rank": 6,
+      "share": 0.038599999999999995
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.0341
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.0304
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.0288
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.0181
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.0129
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2021,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.0106
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.35700000000000004
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.2
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.085
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.055999999999999994
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.045
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.033
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.03
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.027999999999999997
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.027000000000000003
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.02
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.01
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.008
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.006
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.004
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 21,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "拖鞋凉鞋",
+      "brand_type": "other",
+      "rank": 22,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "赤足",
+      "brand_type": "other",
+      "rank": 23,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "咕咚",
+      "brand_type": "domestic",
+      "rank": 27,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 28,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 29,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "选手遮挡品牌",
+      "brand_type": "other",
+      "rank": 30,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.278
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.257
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.185
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.08199999999999999
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.063
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.05
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.028999999999999998
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.418
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.162
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.078
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.076
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.045
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.038
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.028999999999999998
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.019
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.019
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.019
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.01
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.008
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.004
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "凯乐石",
+      "brand_type": "domestic",
+      "rank": 21,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.428
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.095
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.094
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.066
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.054000000000000006
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.044000000000000004
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.035
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.031
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.021
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.02
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.016
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.005
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "拖鞋凉鞋",
+      "brand_type": "other",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "厦门马拉松",
+      "cohort": "全局跑者",
+      "brand": "赤足",
+      "brand_type": "other",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.46299999999999997
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.23
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.095
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.06
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.057
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.028999999999999998
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.006
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "选手遮挡品牌",
+      "brand_type": "other",
+      "rank": 11,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.355
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.332
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.05
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.047
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.031
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.023
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.023
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.021
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.021
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.019
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.012
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.012
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.19699999999999998
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.183
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.152
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.129
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.062
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.057999999999999996
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.036000000000000004
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.032
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.024
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.021
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.01
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.006
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.004
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "其他品牌",
+      "brand_type": "other",
+      "rank": 21,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.222
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.158
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.153
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.122
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.085
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.045
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.036000000000000004
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.035
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.022000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.019
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.012
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.005
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.004
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.004
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "引擎鸟",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.415
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.10300000000000001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.081
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.079
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.075
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.042
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.035
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.019
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.016
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.01
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.01
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.006
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.006
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.004
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "lululemon",
+      "brand_type": "international",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "咕咚",
+      "brand_type": "domestic",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 27,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Vibram五指鞋",
+      "brand_type": "international",
+      "rank": 27,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 29,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.32799999999999996
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.198
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.09699999999999999
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.062
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.054000000000000006
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.051
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.040999999999999995
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.039
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.012
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.01
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.008
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.008
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.22399999999999998
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.19699999999999998
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.115
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.083
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.067
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.053
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.042
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.032
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.027999999999999997
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.023
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.017
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.004
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.004
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "引擎鸟",
+      "brand_type": "domestic",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.215
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.14
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.12
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.114
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.087
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.081
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.064
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.034
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.03
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.024
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.016
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.015
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.01
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "R2 REALRUN",
+      "brand_type": "domestic",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 27,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "凯乐石",
+      "brand_type": "domestic",
+      "rank": 28,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "上海马拉松",
+      "cohort": "全局跑者",
+      "brand": "引擎鸟",
+      "brand_type": "domestic",
+      "rank": 29,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.441
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.36700000000000005
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.063
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.046
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.016
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "未知",
+      "brand_type": "other",
+      "rank": 10,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.35600000000000004
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.156
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.11900000000000001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.094
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.064
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.063
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.05
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.027000000000000003
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.225
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.22399999999999998
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.179
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.087
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.065
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.046
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.040999999999999995
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.024
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.023
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.023
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.005
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.35600000000000004
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.295
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.066
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.055999999999999994
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.044000000000000004
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.04
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.024
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.005
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.005
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "引擎鸟",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.326
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.133
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.102
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.086
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.077
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.054000000000000006
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.037000000000000005
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.033
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.024
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.015
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.01
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.006
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.006
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.005
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.004
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.004
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 21,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.003
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 23,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.002
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "咕咚",
+      "brand_type": "domestic",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2022,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 27,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.281
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.265
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.084
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.07
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.057
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.05
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.03
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.022000000000000002
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.02
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.017
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.012
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.225
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.22399999999999998
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.179
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.087
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.065
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.046
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.040999999999999995
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.024
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.023
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.023
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.005
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.32799999999999996
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.18
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.11699999999999999
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.077
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.053
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.053
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.039
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.027999999999999997
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.023
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.019
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.017
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.012
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "咕咚",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "北京马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.42
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.254
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.12300000000000001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.064
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.027999999999999997
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.022000000000000002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.012
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.36200000000000004
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.138
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.129
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.06
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.057999999999999996
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.054000000000000006
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.034
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.028999999999999998
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.025
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.023
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.022000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.017
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.01
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.004
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.004
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.273
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.156
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.115
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.098
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.07400000000000001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.061
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.057999999999999996
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.048
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.042
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.01
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.005
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "破3选手",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.29100000000000004
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.20199999999999999
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.121
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.077
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.063
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.059000000000000004
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.046
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.022000000000000002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.01
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "咕咚",
+      "brand_type": "domestic",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.326
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.193
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.08900000000000001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.077
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.07200000000000001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.052000000000000005
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.038
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.015
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.015
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.012
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.008
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.008
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 17,
+      "share": 0.006
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.006
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.005
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.342
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.126
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.114
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.087
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.07200000000000001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.066
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.064
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.025
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.024
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.01
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.01
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.005
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.004
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "选手遮挡品牌",
+      "brand_type": "other",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "无锡马拉松",
+      "cohort": "全局跑者",
+      "brand": "凯乐石",
+      "brand_type": "domestic",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 1,
+      "share": 0.314
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.284
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.08800000000000001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.046
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.044000000000000004
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.040999999999999995
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.038
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 8,
+      "share": 0.035
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 9,
+      "share": 0.017
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.006
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.005
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.285
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 2,
+      "share": 0.187
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.146
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.092
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.078
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.04
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.037000000000000005
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.036000000000000004
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.028999999999999998
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.018000000000000002
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.009000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.008
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.005
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.005
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "拖鞋凉鞋",
+      "brand_type": "other",
+      "rank": 20,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.382
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.16
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 3,
+      "share": 0.136
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 4,
+      "share": 0.06
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 5,
+      "share": 0.051
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.043
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 7,
+      "share": 0.04
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.028999999999999998
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.026000000000000002
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "R2 REALRUN",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.004
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.004
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "破3选手",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.278
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.201
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.092
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.081
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.067
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 6,
+      "share": 0.049
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.047
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.019
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.017
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.016
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 11,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 12,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 13,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 14,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.01
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 16,
+      "share": 0.008
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.008
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 19,
+      "share": 0.004
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Altra",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.003
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 24,
+      "share": 0.002
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Salomon",
+      "brand_type": "international",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2023,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.317
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.136
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.086
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.08199999999999999
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.078
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.067
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.043
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.042
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.038
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.015
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 11,
+      "share": 0.013999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.013000000000000001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.008
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.006999999999999999
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.004
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.003
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 20,
+      "share": 0.002
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "赤足",
+      "brand_type": "other",
+      "rank": 22,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "引擎鸟",
+      "brand_type": "domestic",
+      "rank": 23,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "拖鞋凉鞋",
+      "brand_type": "other",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2024,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "斯凯奇",
+      "brand_type": "international",
+      "rank": 26,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "特步",
+      "brand_type": "domestic",
+      "rank": 1,
+      "share": 0.36200000000000004
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Saucony",
+      "brand_type": "international",
+      "rank": 2,
+      "share": 0.109
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Adidas",
+      "brand_type": "international",
+      "rank": 3,
+      "share": 0.109
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Nike",
+      "brand_type": "international",
+      "rank": 4,
+      "share": 0.068
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "安踏",
+      "brand_type": "domestic",
+      "rank": 5,
+      "share": 0.067
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "李宁",
+      "brand_type": "domestic",
+      "rank": 6,
+      "share": 0.057
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "乔丹",
+      "brand_type": "domestic",
+      "rank": 7,
+      "share": 0.053
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "必迈",
+      "brand_type": "domestic",
+      "rank": 8,
+      "share": 0.053
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "ASICS",
+      "brand_type": "international",
+      "rank": 9,
+      "share": 0.031
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "HOKA",
+      "brand_type": "international",
+      "rank": 10,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "361°",
+      "brand_type": "domestic",
+      "rank": 10,
+      "share": 0.011000000000000001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "New Balance",
+      "brand_type": "international",
+      "rank": 12,
+      "share": 0.01
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "鸿星尔克",
+      "brand_type": "domestic",
+      "rank": 13,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Brooks",
+      "brand_type": "international",
+      "rank": 14,
+      "share": 0.008
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "多威",
+      "brand_type": "domestic",
+      "rank": 15,
+      "share": 0.006
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "匹克",
+      "brand_type": "domestic",
+      "rank": 16,
+      "share": 0.004
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "On昂跑",
+      "brand_type": "international",
+      "rank": 17,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "咕咚",
+      "brand_type": "domestic",
+      "rank": 18,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "马孔多",
+      "brand_type": "domestic",
+      "rank": 19,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "海尔斯",
+      "brand_type": "domestic",
+      "rank": 20,
+      "share": 0.003
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "迪卡侬",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "美津浓",
+      "brand_type": "international",
+      "rank": 21,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Puma",
+      "brand_type": "international",
+      "rank": 22,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "Under Armour",
+      "brand_type": "international",
+      "rank": 23,
+      "share": 0.002
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "引擎鸟",
+      "brand_type": "domestic",
+      "rank": 24,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "拖鞋凉鞋",
+      "brand_type": "other",
+      "rank": 25,
+      "share": 0.001
+    },
+    {
+      "year": 2025,
+      "event": "广州马拉松",
+      "cohort": "全局跑者",
+      "brand": "赤足",
+      "brand_type": "other",
+      "rank": 26,
+      "share": 0.001
+    }
+  ],
+  "brands": {
+    "特步": {
+      "name_en": "Xtep",
+      "type": "domestic"
+    },
+    "乔丹": {
+      "name_en": "Qiaodan",
+      "type": "domestic"
+    },
+    "李宁": {
+      "name_en": "Li-Ning",
+      "type": "domestic"
+    },
+    "安踏": {
+      "name_en": "Anta",
+      "type": "domestic"
+    },
+    "鸿星尔克": {
+      "name_en": "ERKE",
+      "type": "domestic"
+    },
+    "361°": {
+      "name_en": "361°",
+      "type": "domestic"
+    },
+    "匹克": {
+      "name_en": "Peak",
+      "type": "domestic"
+    },
+    "必迈": {
+      "name_en": "Bmai",
+      "type": "domestic"
+    },
+    "多威": {
+      "name_en": "Do-win",
+      "type": "domestic"
+    },
+    "海尔斯": {
+      "name_en": "Health",
+      "type": "domestic"
+    },
+    "马孔多": {
+      "name_en": "Macondo",
+      "type": "domestic"
+    },
+    "贵人鸟": {
+      "name_en": "Grn",
+      "type": "domestic"
+    },
+    "咕咚": {
+      "name_en": "Codoon",
+      "type": "domestic"
+    },
+    "凯乐石": {
+      "name_en": "Kailas",
+      "type": "domestic"
+    },
+    "引擎鸟": {
+      "name_en": "Enginebird",
+      "type": "domestic"
+    },
+    "R2 REALRUN": {
+      "name_en": "R2 REALRUN",
+      "type": "domestic"
+    },
+    "Nike": {
+      "name_en": "Nike",
+      "type": "international"
+    },
+    "Adidas": {
+      "name_en": "Adidas",
+      "type": "international"
+    },
+    "ASICS": {
+      "name_en": "ASICS",
+      "type": "international"
+    },
+    "Saucony": {
+      "name_en": "Saucony",
+      "type": "international"
+    },
+    "HOKA": {
+      "name_en": "HOKA",
+      "type": "international"
+    },
+    "Brooks": {
+      "name_en": "Brooks",
+      "type": "international"
+    },
+    "New Balance": {
+      "name_en": "New Balance",
+      "type": "international"
+    },
+    "美津浓": {
+      "name_en": "Mizuno",
+      "type": "international"
+    },
+    "On昂跑": {
+      "name_en": "On",
+      "type": "international"
+    },
+    "Puma": {
+      "name_en": "Puma",
+      "type": "international"
+    },
+    "Under Armour": {
+      "name_en": "Under Armour",
+      "type": "international"
+    },
+    "Salomon": {
+      "name_en": "Salomon",
+      "type": "international"
+    },
+    "Altra": {
+      "name_en": "Altra",
+      "type": "international"
+    },
+    "斯凯奇": {
+      "name_en": "Skechers",
+      "type": "international"
+    },
+    "Reebok": {
+      "name_en": "Reebok",
+      "type": "international"
+    },
+    "迪卡侬": {
+      "name_en": "Decathlon",
+      "type": "international"
+    },
+    "lululemon": {
+      "name_en": "lululemon",
+      "type": "international"
+    },
+    "Vibram五指鞋": {
+      "name_en": "Vibram",
+      "type": "international"
+    },
+    "Champion": {
+      "name_en": "Champion",
+      "type": "international"
+    },
+    "其他": {
+      "name_en": "Others",
+      "type": "other"
+    },
+    "其他品牌": {
+      "name_en": "Others",
+      "type": "other"
+    },
+    "无法辨认": {
+      "name_en": "Unidentified",
+      "type": "other"
+    },
+    "未知": {
+      "name_en": "Unknown",
+      "type": "other"
+    },
+    "拖鞋凉鞋": {
+      "name_en": "Slippers",
+      "type": "other"
+    },
+    "赤足": {
+      "name_en": "Barefoot",
+      "type": "other"
+    },
+    "选手遮挡品牌": {
+      "name_en": "Blocked",
+      "type": "other"
+    }
+  },
+  "sources": [
+    {
+      "source_id": "verified_data",
+      "label": "用户提供并核对的马拉松跑鞋品牌统计图",
+      "detail": "来源：悦跑圈等平台统计数据，包含厦门、上海、北京、无锡、广州马拉松的破3选手和全局跑者数据",
+      "date_collected": "2025-01",
+      "events": [
+        "厦门马拉松",
+        "上海马拉松",
+        "北京马拉松",
+        "无锡马拉松",
+        "广州马拉松"
+      ]
+    }
+  ],
+  "metadata": {
+    "total_records": 841,
+    "events": [
+      "厦门马拉松",
+      "上海马拉松",
+      "北京马拉松",
+      "无锡马拉松",
+      "广州马拉松"
+    ],
+    "cohorts": [
+      "破3选手",
+      "全局跑者"
+    ],
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "generated_at": "2025-01-14"
+  }
+}
